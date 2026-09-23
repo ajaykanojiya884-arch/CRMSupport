@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Databases / local runtime
+*.db
+*.sqlite3
+
+# IDE / editor
+.vscode/
+.DS_Store
